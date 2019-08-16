@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string-array name="status_list">
+        <item>Scheduled</item>
+        <item>Done</item>
+        <item>Dismissed</item>
+    </string-array>
+</resources>
